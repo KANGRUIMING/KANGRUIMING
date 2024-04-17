@@ -1,5 +1,5 @@
 <h1 align="left">Ruiming Kang</h1>
-<h3 align="left">ME @ UT Austin</h3>
+<h3 align="left">MechE @ UT Austin</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
