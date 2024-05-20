@@ -1,5 +1,5 @@
 <h1 align="center">Ruiming Kang</h1>
-<h3 align="center">Mechanical Engineering Student @ UT Austin</h3>
+<h3 align="center">Mechanical Engineering Student at UT Austin</h3>
 
 <h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
@@ -8,6 +8,9 @@
   </a>
   <a href="http://ruimingkang.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="ruimingkang.com" height="35" width="45" style="margin-right: 10px;"/>
+  </a>
+  <a href="mailto:contact@ruimingkang.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="contact@ruimingkang.com" height="35" width="45" style="margin-right: 10px;"/>
   </a>
 </p>
 
@@ -28,6 +31,12 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
   </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+  </a>
 </p>
 
 <p align="center">
