@@ -7,10 +7,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kangruiming" height="35" width="45" style="margin-right: 10px;"/>
   </a>
   <a href="http://ruimingkang.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="ruimingkang.com" height="35" width="45" style="margin-right: 10px;"/>
+    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="ruimingkang.com" height="35" width="45" style="margin-right: 10px;"/>
   </a>
   <a href="mailto:contact@ruimingkang.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="contact@ruimingkang.com" height="35" width="45" style="margin-right: 10px;"/>
+    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" alt="contact@ruimingkang.com" height="35" width="45" style="margin-right: 10px;"/>
   </a>
 </p>
 
